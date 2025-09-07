@@ -9,7 +9,7 @@
 
 ***
 ### Resumo
-<p>Este repositório corresponde à segunda entrega da matéria Projeto Integrador: Desenvolvimento de Sistemas Orientado à Objetos, do curso de Análise de Sistemas do SENAC - EAD, sob orientação do professor **Enoque Leal**. </p>
+<p>Este repositório corresponde à segunda entrega da matéria Projeto Integrador: Desenvolvimento de Sistemas Orientado à Objetos, do curso de Análise de Sistemas do SENAC - EAD, sob orientação do professor Enoque Leal. </p>
 <p>Esta etapa compreende a elaboração de protótipos de interfaces para um sistema de cadastro de dados de uma universidade. Estes protótipos estão diretamente relacionados à primeira entrega, onde foram desenvolvidos os diagramas de classe e casos de uso para a estruturação desse sistema.</p>
 Optamos pela utilização de HTML no desenvolvimento do protótipo, tanto por entender que esse sistema será utilizado via web, quanto por uma questão pessoal de aprendizado. Contudo, salientamos que a finalidade da utilização desta linguagem de marcação se dá apenas no âmbito visual dos protótipos. 
 Dessa forma, nenhuma funcionalidade referente ao fluxo de navegação do sistema foi implementada.
