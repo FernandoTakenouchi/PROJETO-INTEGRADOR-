@@ -38,6 +38,7 @@ Entendemos que para casos mais complexos, como emissão de NF, realização de m
 Esta imagem compreende à tela de login para todos os usuários cadastrados no sistema. Além disso, são disponibilizadas as opções de recuperação de senha e realização de cadastro primário no sistema.
 
 ## 2.2 Cadastro Geral
+![Cadastro Geral](imagens/CadCPF.png)
 
 Este cadastro é utilizado como primeira forma de cadastro para todos os usuários, sejam eles usuários comuns, funcionários ou admnistradores. Compreendemos que para um sistema de cadastro universitário, o cadastro de fornecedores deve ser realizado unicamente por pessoas com autorização institucional, nesse caso, administradores e funcionários. Assim, esta página não contempla o formulário de cadastro de pessoa jurídica, que está disponibilizado no item 2.5.
 
