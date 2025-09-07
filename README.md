@@ -29,6 +29,7 @@ Entendemos que para casos mais complexos, como emissão de NF, realização de m
 ![Casos de Uso](imagens/CasosUso.png)
 
 ## 1.2 Diagrama de Classes
+![Diagrama de Classes](imagens/DiagramaClasses.png)
 
 ## 2.1 Tela de Login
 
