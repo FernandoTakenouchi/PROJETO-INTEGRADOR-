@@ -31,6 +31,10 @@ Entendemos que para casos mais complexos, como emissão de NF, realização de m
 
 ## 2.1 Tela de Login
 
+![Tela de Login](imagens/telalogin.png)
+
+Esta imagem compreende à tela de login para todos os usuários cadastrados no sistema. Além disso, são disponibilizadas as opções de recuperação de senha e realização de cadastro primário no sistema.
+
 ## 2.2 Cadastro Geral
 
 Este cadastro é utilizado como primeira forma de cadastro para todos os usuários, sejam eles usuários comuns, funcionários ou admnistradores. Compreendemos que para um sistema de cadastro universitário, o cadastro de fornecedores deve ser realizado unicamente por pessoas com autorização institucional, nesse caso, administradores e funcionários.
