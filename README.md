@@ -62,7 +62,7 @@ Esta página corresponde à seleção do tipo de cadastro que será efetuado pel
 Esta página é semelhante ao cadastro geral no item 2.2, porém, inclui dados referentes à pessoa jurídica, como razão social, nome fantasia, número do CNPJ e CNAE.
 
 ## 2.6 Consulta de Dados Geral
-
+![Consulta Dados Geral](imagens/consulta.png)
 Esta página corresponde à consulta de dados já cadastrados no sistema. Utilizamos um exemplo fictício para representar a formatação desses dados. Para o caso de uso do funcionário, é disponibilizado o local de inserção do número de documento para pesquisa, ao passo que para para o usuário comum (estudante e professor), apenas os próprios dados poderão ser consultados.
 
 ## 2.6 Consulta de Dados - Administrador
