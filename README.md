@@ -17,6 +17,8 @@ Dessa forma, nenhuma funcionalidade referente ao fluxo de navegação do sistema
 Abaixo estão dispostas as imagens referentes às telas do sistema, bem como a descrição do fluxo.
 
 
+
+
 <br>
 
 ## 1.1 Casos de Uso
@@ -29,6 +31,31 @@ Abaixo estão dispostas as imagens referentes às telas do sistema, bem como a d
 
 Este cadastro é utilizado como primeira forma de cadastro para todos os usuários, sejam eles usuários comuns, funcionários ou admnistradores. Compreendemos que para um sistema de cadastro universitário, o cadastro de fornecedores deve ser realizado unicamente por pessoas com autorização institucional, nesse caso, administradores e funcionários.
 
-## 2.3 Página Inicial - Usuário Comum
+## 2.3 Menu Inicial - Usuário Comum
 
 Esta página inicial disponibiliza apenas as opções de visualizar o próprio cadastro e encerrar a sessão. Entendemos que o usuário comum, após cadastrado, pode apenas visualizar o próprio cadastro, disponível de forma semelhante ao item (COLOCAR NÚMERO), com a opção de consulta por CPF e CNPJ ausentes.
+
+## 2.3 Menu Inicial - Administrador e Funcionário
+
+Esta página é semelhante ao menu do usuário, contudo, possui também a opção de realizar cadastro de um novo aluno, professor ou fornecedor no sistema. Ao selecionar a opção "Realizar Cadastro", o redirecionamento seria feito para o item 2.4.
+
+## 2.4 Seleção do Tipo de Cadastro
+
+Esta página corresponde à seleção do tipo de cadastro que será efetuado pelo administrador ou funcionário. Caso queira cadastrar um aluno ou professor, a opção "Pessoa Física (CPF)" deve ser escolhida. Caso queira cadastrar um fornecedor, a opção "Pessoa Jurídica (CNPJ)" Deve ser escolhida. Caso escolha a opção "Pessoa Física (CPF)", o redirecionamento será para o item 2.2.
+
+## 2.5 Cadastro de Pessoa Jurídica
+
+Esta página é semelhante ao cadastro geral no item 2.2, porém, inclui dados referentes à pessoa jurídica, como razão social, nome fantasia, número do CNPJ e CNAE.
+
+## 2.6 Consulta de Dados Geral
+
+Esta página corresponde à consulta de dados já cadastrados no sistema. Utilizamos um exemplo fictício para representar a formatação desses dados. Para o caso de uso do funcionário, é disponibilizado o local de inserção do número de documento para pesquisa, ao passo que para para o usuário comum (estudante e professor), apenas os próprios dados poderão ser consultados.
+
+## 2.6 Consulta de Dados - Administrador
+
+Esta página corresponde à consulta de dados cadastrados no sistema, e pode ser realizada apenas pelo administrador. Note que embora seja semelhante ao item 2.6, esta página também possui a opção de excluir o cadastro, privilegio concedido apenas a este tipo de usuário. Para que um cadastro seja excluído, é necessária a confirmação do sistema por meio da requisição de senha.
+
+
+
+
+
