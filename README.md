@@ -37,7 +37,7 @@ Este cadastro é utilizado como primeira forma de cadastro para todos os usuári
 
 ## 2.3 Menu Inicial - Usuário Comum
 
-Esta página inicial disponibiliza apenas as opções de visualizar o próprio cadastro e encerrar a sessão. Entendemos que o usuário comum, após cadastrado, pode apenas visualizar o próprio cadastro, disponível de forma semelhante ao item (COLOCAR NÚMERO), com a opção de consulta por CPF e CNPJ ausentes.
+Esta página inicial disponibiliza apenas as opções de visualizar o próprio cadastro e encerrar a sessão. Entendemos que o usuário comum, após cadastrado, pode apenas visualizar o próprio cadastro, disponível de forma semelhante ao item 2.3, com a opção de consulta por CPF e CNPJ ausentes.
 
 ## 2.3 Menu Inicial - Administrador e Funcionário
 
