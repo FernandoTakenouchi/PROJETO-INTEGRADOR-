@@ -43,6 +43,7 @@ Esta imagem compreende à tela de login para todos os usuários cadastrados no s
 Este cadastro é utilizado como primeira forma de cadastro para todos os usuários, sejam eles usuários comuns, funcionários ou admnistradores. Compreendemos que para um sistema de cadastro universitário, o cadastro de fornecedores deve ser realizado unicamente por pessoas com autorização institucional, nesse caso, administradores e funcionários. Assim, esta página não contempla o formulário de cadastro de pessoa jurídica, que está disponibilizado no item 2.5.
 
 ## 2.3 Menu Inicial - Usuário Comum
+![Menu Inicial](imagens/homeusuario.png)
 
 Esta página inicial disponibiliza apenas as opções de visualizar o próprio cadastro e encerrar a sessão. Entendemos que o usuário comum, após cadastrado, pode apenas visualizar o próprio cadastro, disponível de forma semelhante ao item 2.3, com a opção de consulta por CPF e CNPJ ausentes.
 
