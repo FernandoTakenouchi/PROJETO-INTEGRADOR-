@@ -63,9 +63,11 @@ Esta página é semelhante ao cadastro geral no item 2.2, porém, inclui dados r
 
 ## 2.6 Consulta de Dados Geral
 ![Consulta Dados Geral](imagens/consulta.png)
+
 Esta página corresponde à consulta de dados já cadastrados no sistema. Utilizamos um exemplo fictício para representar a formatação desses dados. Para o caso de uso do funcionário, é disponibilizado o local de inserção do número de documento para pesquisa, ao passo que para para o usuário comum (estudante e professor), apenas os próprios dados poderão ser consultados.
 
 ## 2.6 Consulta de Dados - Administrador
+![Consulta de Dados](imagens/consultaadm.png)
 
 Esta página corresponde à consulta de dados cadastrados no sistema, e pode ser realizada apenas pelo administrador. Note que embora seja semelhante ao item 2.6, esta página também possui a opção de excluir o cadastro, privilegio concedido apenas a este tipo de usuário. Para que um cadastro seja excluído, é necessária a confirmação do sistema por meio da requisição de senha.
 
