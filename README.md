@@ -1,1 +1,22 @@
-# PROJETO-INTEGRADOR-
+# PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADO À OBJETOS
+
+## Sistema de Cadastro de uma Universidade
+A segunda entrega do Projeto Integrador do SENAC, sob orientação do professor Enoque Leal, envolve a criação de protótipos de interfaces de cadastro para um modelo de universidade, com foco no uso do HTML para a estrutura básica dessas telas. Nesse projeto específico o objetivo é o desenvolvimento de interfaces de cadastro para uma universidade.
+
+<br>
+
+## Integrantes do Grupo
+- Anaís Queiroz Goedart
+- Edla Guedes Mendonça
+- Fernando Kenichi Takenouchi
+<br>
+<br>
+
+
+## Casos de Uso
+![Diagrama de Casos de Uso](caso-de-uso.png)
+
+<br>
+
+## Diagrama de Classes
+![Diagrama de Classes](Diagrama-de-classe.png)
