@@ -53,6 +53,7 @@ Esta página inicial disponibiliza apenas as opções de visualizar o próprio c
 Esta página é semelhante ao menu do usuário, contudo, possui também a opção de realizar cadastro de um novo aluno, professor ou fornecedor no sistema. Ao selecionar a opção "Realizar Cadastro", o redirecionamento seria feito para o item 2.4.
 
 ## 2.4 Seleção do Tipo de Cadastro
+![Selecao do Tipo de Cadastro](imagens/selecaocadastro.png)
 
 Esta página corresponde à seleção do tipo de cadastro que será efetuado pelo administrador ou funcionário. Caso queira cadastrar um aluno ou professor, a opção "Pessoa Física (CPF)" deve ser escolhida. Caso queira cadastrar um fornecedor, a opção "Pessoa Jurídica (CNPJ)" Deve ser escolhida. Caso escolha a opção "Pessoa Física (CPF)", o redirecionamento será para o item 2.2.
 
