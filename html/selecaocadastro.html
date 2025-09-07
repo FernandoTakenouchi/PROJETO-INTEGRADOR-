@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seleção de Cadastro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 500px;
+      margin: 80px auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+
+    h2 {
+      margin-bottom: 35px;
+      font-size: 24px;
+    }
+
+    .btn-opcao {
+      display: block;
+      width: 100%;
+      margin: 15px 0;
+      padding: 18px;
+      background: #800020; /* vermelho bordô */
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 20px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .btn-opcao:hover {
+      background: #660018;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Selecione o tipo de cadastro:</h2>
+    <button class="btn-opcao">Pessoa Física (CPF)</button>
+    <button class="btn-opcao">Pessoa Jurídica (CNPJ)</button>
+  </div>
+</body>
+</html>
