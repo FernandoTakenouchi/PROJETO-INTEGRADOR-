@@ -48,6 +48,7 @@ Este cadastro é utilizado como primeira forma de cadastro para todos os usuári
 Esta página inicial disponibiliza apenas as opções de visualizar o próprio cadastro e encerrar a sessão. Entendemos que o usuário comum, após cadastrado, pode apenas visualizar o próprio cadastro, disponível de forma semelhante ao item 2.3, com a opção de consulta por CPF e CNPJ ausentes.
 
 ## 2.3 Menu Inicial - Administrador e Funcionário
+![Menu Incial](imagens/home.png)
 
 Esta página é semelhante ao menu do usuário, contudo, possui também a opção de realizar cadastro de um novo aluno, professor ou fornecedor no sistema. Ao selecionar a opção "Realizar Cadastro", o redirecionamento seria feito para o item 2.4.
 
