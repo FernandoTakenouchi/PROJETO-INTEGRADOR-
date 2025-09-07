@@ -18,3 +18,17 @@ Abaixo estão dispostas as imagens referentes às telas do sistema, bem como a d
 
 
 <br>
+
+## 1.1 Casos de Uso
+
+## 1.2 Diagrama de Classes
+
+## 2.1 Tela de Login
+
+## 2.2 Cadastro Geral
+
+Este cadastro é utilizado como primeira forma de cadastro para todos os usuários, sejam eles usuários comuns, funcionários ou admnistradores. Compreendemos que para um sistema de cadastro universitário, o cadastro de fornecedores deve ser realizado unicamente por pessoas com autorização institucional, nesse caso, administradores e funcionários.
+
+## 2.3 Página Inicial - Usuário Comum
+
+Esta página inicial disponibiliza apenas as opções de visualizar o próprio cadastro e encerrar a sessão. Entendemos que o usuário comum, após cadastrado, pode apenas visualizar o próprio cadastro, disponível de forma semelhante ao item (COLOCAR NÚMERO), com a opção de consulta por CPF e CNPJ ausentes.
