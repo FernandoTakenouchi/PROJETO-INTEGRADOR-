@@ -18,7 +18,7 @@ Nesse projeto específico o objetivo é o desenvolvimento de interfaces de cadas
 
 
 ## Casos de Uso
-![Diagrama de Casos de Uso](caso-de-uso.png)
+![Diagrama de Casos de Uso](blob/main/Caso de Uso.png)
 
 <br>
 
