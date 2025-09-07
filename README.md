@@ -58,6 +58,7 @@ Esta página é semelhante ao menu do usuário, contudo, possui também a opçã
 Esta página corresponde à seleção do tipo de cadastro que será efetuado pelo administrador ou funcionário. Caso queira cadastrar um aluno ou professor, a opção "Pessoa Física (CPF)" deve ser escolhida. Caso queira cadastrar um fornecedor, a opção "Pessoa Jurídica (CNPJ)" Deve ser escolhida. Caso escolha a opção "Pessoa Física (CPF)", o redirecionamento será para o item 2.2.
 
 ## 2.5 Cadastro de Pessoa Jurídica
+![Cadastro de Pessoa Juridica](imagens/CadCNPJ.png)
 
 Esta página é semelhante ao cadastro geral no item 2.2, porém, inclui dados referentes à pessoa jurídica, como razão social, nome fantasia, número do CNPJ e CNAE.
 
