@@ -18,11 +18,11 @@ Nesse projeto específico o objetivo é o desenvolvimento de interfaces de cadas
 
 
 ## Casos de Uso
-![Diagrama de Casos de Uso](Images-Caso-de-uso.png)
+![Diagrama de Casos de Uso](Caso-de-uso.png)
 
 <br>
 
 ## Diagrama de Classes
-![Diagrama de Classes](Images-Diagrama-de-classe.png)
+![Diagrama de Classes](Diagrama-de-classe.png)
 
 <br>
