@@ -16,8 +16,12 @@ Optamos pela utilização de HTML no desenvolvimento do protótipo, tanto por en
 Dessa forma, nenhuma funcionalidade referente ao fluxo de navegação do sistema foi implementada.
 Abaixo estão dispostas as imagens referentes às telas do sistema, bem como a descrição do fluxo.
 
+<br>
 
+NOTAS
 
+Consideramos que este sistema é uma ferramenta de cadastro de dados geral para pessoas que possuem vínculo institucional com uma universidade. Estas pessoas, possuidoras de um documento único de identificação como CPF ou CNPJ (e em alguns casos, MEI), podem ser alunos, professores, funcionáros, fornecedores, entre outros. Nesse sentido, entendemos que este documento único de identificação pode ser utilizado como chave primária para inserção de dados, portanto, não discriminamos os tipos de cadastro pela classificação de vínculo institucional, e sim pela chave primária de identificação no sistema, fator primário de distinção de tipo de cadastro.
+Entendemos que para casos mais complexos, como emissão de NF, realização de matrícula, atribuição de disciplinas, dentre outros, um sistema mais complexo deve ser elaborado, podendo ser ele modular e flexível, de acordo com as necessidades institucionais.
 
 <br>
 
